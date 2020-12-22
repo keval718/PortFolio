@@ -61,7 +61,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Hybriona Technologies , Web Developer <span>Feb 2018-Jan 2020</span></h2>
+                        <h2>Hybriona Technologies , Web Developer <span>Feb 2018-Mar 2019</span></h2>
                         •	Developed web site using React, Bootstrap CSS, HTML5, Semantic UI, Created API  using Express JS and Nodejs for backend <br/>
                         •	Build application backend using Node JS, developed databases in MongoDB that support web application<br/>
                         •	Develop responsive interface components using React concepts like React Bootstrap, Material Kit React<br/>
