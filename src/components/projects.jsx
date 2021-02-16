@@ -12,6 +12,26 @@ export default class Projects extends Component {
 								<h2 className="colorlib-heading animate-box">Recent Projects</h2>
 							</div>
 						</div>
+            <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2> Restaurant Finder</h2> <a href="https://find-restaurant1.herokuapp.com/" > Click Here</a>
+
+                       <ul>
+					 <li> Developed a Responsive website for finding the restaurants of the location entered.</li>
+					 <li>Used React.js for designing frontend of the application</li>
+           <li>Used Redux as a state management library</li>
+           <li> Used React Router for client side routing</li>
+           <li> Used Redux Thunk middleware to dispatch async actions(calling API)</li>
+           <li>Technologies Used: React,Redux, Redux Router, Redux Thunk,JavaScript(ES6),HTML5,CSS3</li>
+					</ul>
+
+                      </div>
+                    </div>
+                  </article>
 						<article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">

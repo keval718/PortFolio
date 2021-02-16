@@ -22,14 +22,15 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Mosaic North America, Web Developer <span>Aug 2020-present</span></h2>
-                        •	Meet with the clients and team leads to identify the needs and design of the website.<br/>
-                        •	Create and test applications for a website.<br/>
-                        •	Write code for a website.<br/>
-                        •	Work with UX/UI designer to execute the design plan.<br/>
-                        •	Work with the team members to identify and add information and content onto the site including graphics, audio, and video. <br/>
-                        •	Edit and fix company websites to combat bugs and small errors.<br/>
-                        •	Manage projects by collaborating and communicating with supervisor and other designers and writers. <br/>
-                        •	Technologies used :- PHP, Nodejs, Laravel, WordPress, Shopify, Wix <br/>
+                        • Technologies: React/Redux, JavaScript (ES6+), HTML, CSS, Google Analytics, Shopify, WordPress, Adobe XD, InVision<br/>
+                        • Collaborating with small businesses, solve problems and providing digital transformation services to help them grow their
+                          digital presence<br/>
+                        • Elevated conversion rate by 25% by improving UI/UX of the website and increased audience by 50% by enhancing SEO<br/>
+                        • Reduced load time of the site by 15-20% by applying a strategy to use impactful text rather than high-resolution images<br/>
+                        • Led team meetings with business owners, presented future strategies and trained non-technical people<br/>
+                        • Create home page layout, product pages, icons and feature graphics, creation of themes and standards for use on the<br/>
+                        website, develop support forms and landing pages
+                        • Edit and fix company websites to combat bugs and small errors using JIRA. <br/>
 
                       </div>
                     </div>
@@ -42,13 +43,11 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Dare and Defy Strategic Consulting, Toronto, ON , Web Developer <span>Jan 2020-May 2020</span></h2>
-                        •	Design and developed a website using Node.js, React and MongoDB for database<br/>
-                        •	Meeting with the development team to discuss user interface ideas and applications.<br/>
-                        •	Reviewing application requirements and interface designs.<br/>
-                        •	Developing and implementing highly-responsive user interface components using React concepts like semantic UI, React Bootstrap<br/>
-                        •	Contributed in building application logic, Created Rest API for backend. Evaluate code to ensure that it is valid, is properly structured, meets company standards and is compatible with browsers and devices<br/>
-                        •	Identify problems by testing and correct problems.<br/>
-                        •	Develop database that support web applications. Perform web site tests and deployed it.<br/>
+                        • Built cross-platform frontend components applying React, Docker, AWS, Redux JSX, GraphQL, HTML, CSS, and Bootstrap<br/>
+                        • Reduced response time to 50% by employing worker threads in app, enhancing overall efficiency Banking<br/>
+                        • Utilized MVC architecture to handle HTTP requests and responses with Axios, built RESTful APIs using JavaScript in Node.js<br/>
+                        • Managed database with 1000s of records using NoSQL, Mongoose, and MongoDB<br/>
+                        • Assisted in performing a unit testing on app’s beta version <br/>
 
 
                       </div>
@@ -62,13 +61,15 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Hybriona Technologies , Web Developer <span>Feb 2018-Mar 2019</span></h2>
-                        •	Developed web site using React, Bootstrap CSS, HTML5, Semantic UI, Created API  using Express JS and Nodejs for backend <br/>
-                        •	Build application backend using Node JS, developed databases in MongoDB that support web application<br/>
-                        •	Develop responsive interface components using React concepts like React Bootstrap, Material Kit React<br/>
-                        •	Documenting application changes and developing updates.<br/>
-                        •	Reduce Time over 50% to generate bills by making a billing system in Angular.<br/>
-                        •	Work with talented, knowledge-driven individuals and share ideas to improve the product with the team.<br/>
-                        •	Work with the designers ,UI Team and QA Team to resolve bugs and also create new features<br/>
+                         Developed web site using React, Redux, JavaScript Bootstrap CSS, HTML5 Created API using Express JS and Nodejs<br/>
+                        • Build application backend using Node JS, developed databases in MongoDB that support web and Mobile application<br/>
+                        • Ensure optimal performance on all devices and browsers and bug-free core functionality.<br/>
+                        • Develop responsive interface components using React concepts like React Bootstrap, Material Kit React<br/>
+                        • Documenting application changes and developing updates.<br/>
+                        • Reduce Time over 50% to generate bills by making a billing system in Angular. Application Support Analyst<br/>
+                        • Used Scrum Agile Methodology in my work (Daily Scrum Meeting, Sprint Backlog, 1on1 meeting)<br/>
+                        • Collaborate designers, UI Team and QA Team to resolve bugs and also create new features<br/>
+
 
 
 
